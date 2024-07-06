@@ -90,16 +90,16 @@ button{
     font-size: 15px;
     font-weight: 700;
 }
-@media (max-width:720) {
+@media (max-width:620px) {
     .container{
-        width: 70%;
+        width: 98%;
         
     }
-    .input{
+/*     .input{
         width:50%;
                 
     }
     .textarea{
         width: 70%;
-    }
+    } */
 }
