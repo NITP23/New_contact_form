@@ -153,14 +153,10 @@ button::before {
   }
 @media (max-width:620px) {
     .container{
-        height: auto;
+       
         width: 100%;
     }
-    input,textarea{
-        
-        margin-left: auto;
-        margin-right: auto;
-    }
+    
 }
 @keyframes rotate {
     form{
